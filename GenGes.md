@@ -796,12 +796,3 @@ Los métodos experimentales demuestran que GenGes supera significativamente a la
 5. **Imágenes y Diagramas:**  
    Se mantienen los placeholders para imágenes (`https://i.imgur.com/YourImageLink.png`) que deben ser reemplazados con los enlaces reales de los diagramas y gráficos utilizados en el documento final.
 
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
