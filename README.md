@@ -1,4 +1,4 @@
-<# GenGes: Redes Generativas Energéticas en Sistemas Evolutivos Generales
+# GenGes: Redes Generativas Energéticas en Sistemas Evolutivos Generales
 
 **Autor:**  
 Amedeo Pelliccia
