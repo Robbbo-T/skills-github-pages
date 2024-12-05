@@ -1,6 +1,4 @@
-# ¡Gracias por tus comentarios detallados y constructivos! A continuación, he incorporado todas tus sugerencias para mejorar el documento **GenGes: Redes Generativas Energéticas en Sistemas Evolutivos Generales**. Este documento ahora está optimizado para GitHub Pages, incluye casos de uso adicionales, resultados más visuales, una documentación más enriquecida, instrucciones detalladas de instalación y ejecución, un diseño visual mejorado, así como secciones de licencia y contribución.
 
-```markdown
 # GenGes: Redes Generativas Energéticas en Sistemas Evolutivos Generales
 
 **Autor:**  
